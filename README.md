@@ -9,12 +9,9 @@ NFT API's can be used to build marketplaces, researches, wallets, analytics site
 
 # Content
 
-* Need to create new NFT collections?
-* Need to mint and list an NFT?
-* Need to get collection data and images?
-* Need to see which NFTs are related to spefic wallet?
-* Need to get transactions and listing related to NFT?
-* Need to see trade volumes and top collections?
+* How to mint an simple NFT in less than 5 minutes ?
+* How to create an NFT collection ?
+* How to mint an NFT ?
 
 # Start
 
