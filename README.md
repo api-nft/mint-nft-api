@@ -1,7 +1,8 @@
-# api-nft
-NFT API to mint/create collection, retrieve NFT related data (transactions,  metadata, wallets etc)
+# How to Create an NFT Collection through API
+ 
+NFT API to mint/create collection
 
-NFT API's can be used to build marketplaces, researches, wallets, analytics sites, trading tools etc. This is an overview of possible datasets and features that you can get through simpel NFT API
+NFT API's can be used to build marketplaces, researches, wallets, analytics sites, trading tools etc. This case describes, how to make NFT Collections and mint through simple API call
 
 ![image](https://user-images.githubusercontent.com/9072132/209811041-3015bb2f-85b1-4117-8b2a-234b2c60bb65.png)
 
